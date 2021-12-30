@@ -1,0 +1,25 @@
+{
+    "products": {
+        "phone" :[
+            {
+                "name" : "iphone",
+                "model" : "13 128GB blue",
+                "price" :"15000",
+                "currency" : "uah",
+                "link" :"https://www.apple.com/ua/",
+                "desc" : "Iphone-это смартфон, сщзданный компанией Apple"
+            },
+            { 
+                 "name" : "samsung",
+                 "model" : "6 128GB black",
+                 "price" :"15000",
+                 "currency" : "uah",
+                 "link" : "https://rozetka.com.ua/mobile-phones/c80003/?gclid=EAIaIQobChMIqYKUkPuL9QIVgs53Ch2MoQClEAAYASAAEgJhY_D_BwE",
+                 "desc" : "Смартфон от компании Samsung 2021 года выпуска"
+
+     
+            }
+        
+        ]
+    }   
+}
